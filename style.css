@@ -1,0 +1,101 @@
+.html,body {
+margin: 0;
+padding: 0;
+scroll-behavior: smooth;
+
+}
+.header{
+height: 80px;
+background-color: black;
+padding: 10px;
+width: 1920px;
+position: fixed;
+z-index: 10;
+
+}
+.hitem{
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    margin-left: 50px;
+    position: relative;
+    left: 900px;
+    bottom: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    
+}
+.brand{
+        display: inline-block;
+        font-weight: bolder;
+        margin-left: 100px;
+        font-size: 30px;
+ }
+.box1{
+    width: 700px;
+    height: 500px;
+    position: relative;
+    padding: 50px;
+    top: 200px;
+    border: solid black 10px;
+    left: 100px;
+    display: inline-block;
+
+}
+.box2{
+    width: 700px;
+    height: 500px;
+    position: relative;
+    padding: 50px;
+    top: 150px;
+    left: 200px;
+    display: inline-block;
+
+}
+.font1{
+    display: block;
+    font-size: 50px;
+    padding-top: 2px;
+    font-weight: bolder;
+}
+.profile{
+    display: inline-block;
+    border-radius: 40px;
+    border: solid black 5px;
+
+}
+.box3{
+    display: block;
+    background-color: rgb(43, 43, 117);
+    margin-top: 250px;
+    padding: 40px;
+    height: 80px;
+    margin-bottom: 50px;
+
+}
+.box4{
+    display: block;
+    background-color: rgb(43, 43, 117);
+    height: 800px;
+    width: 1200px;
+    margin-bottom: 100px;
+
+}
+.exp{
+    background-color: rgb(43, 43, 117);
+    height: 700px;
+    width: 600px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    display: inline-block;
+
+}
+.boxtxt{
+    width: 800px;
+    height: 580px;
+    padding: 50px;
+    border: solid black 10px;
+    display: inline-block;
+    margin-bottom: 100px;
+
+}
